@@ -1,0 +1,34 @@
+{
+  "width": 192,
+  "height": 208,
+  "columns": 8,
+  "animations": [
+    {
+      "name": "double-click-dizzy",
+      "row": 0,
+      "frames": 19,
+      "loop": false,
+      "durations": [
+        180,
+        240,
+        200,
+        140,
+        200,
+        140,
+        200,
+        140,
+        200,
+        160,
+        160,
+        80,
+        80,
+        60,
+        80,
+        60,
+        80,
+        140,
+        260
+      ]
+    }
+  ]
+}

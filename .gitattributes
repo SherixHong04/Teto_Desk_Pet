@@ -1,0 +1,15 @@
+* text=auto
+*.cs text eol=crlf
+*.ps1 text eol=crlf
+*.yml text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.mjs text eol=lf
+*.lua text eol=lf
+src/Assets/*.json -text
+ArtDesignAssets/**/*.json -text
+*.png binary
+*.ico binary
+*.aseprite binary
+*.dll binary
+

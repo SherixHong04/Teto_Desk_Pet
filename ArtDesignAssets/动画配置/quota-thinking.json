@@ -1,0 +1,23 @@
+{
+  "name": "quota-thinking",
+  "width": 192,
+  "height": 208,
+  "animations": [
+    {
+      "name": "quota-thinking",
+      "row": 0,
+      "frames": 5,
+      "durations": [
+        1000,
+        60,
+        100,
+        60,
+        980
+      ]
+    }
+  ],
+  "approved": true,
+  "source_revision": 2,
+  "loop_ms": 2200,
+  "display_ms": 5000
+}
